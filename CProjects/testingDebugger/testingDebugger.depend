@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663663103 source:d:\cprojects\mynewsuperhw.cpp
+	<iostream>
+	<vector>
+
+1663693356 source:d:\cprojects\testingdebugger\newhw.cpp
+	<iostream>
+	<vector>
+
